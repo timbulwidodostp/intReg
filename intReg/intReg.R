@@ -4,7 +4,6 @@
 # Interval regression model (models) Use intReg With (In) R Software
 install.packages("readxl")
 install.packages("httr")
-install.packages("prodest")
 install.packages("Ecdat")
 install.packages("sets")
 install.packages("intReg", repos="http://R-Forge.R-project.org")
@@ -36,4 +35,3 @@ print(summary(intReg))
 # WhatsApp : +6285227746673
 # IG : @olahdatasemarang_
 # Finished
-
