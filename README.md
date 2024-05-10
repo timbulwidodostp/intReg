@@ -1,6 +1,8 @@
 # intReg
 Interval regression model (models) Use intReg With (In) R Software
 
+https://www.youtube.com/watch?v=6buo6jMj9FM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
